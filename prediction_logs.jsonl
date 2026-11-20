@@ -1,0 +1,5 @@
+{"timestamp": "2026-11-20T21:31:43.630334+00:00", "action": "single_prediction", "status": "success", "records": 1, "prediction": 122.84, "duration_ms": 88.67}
+{"timestamp": "2026-11-20T23:18:28.208204+00:00", "action": "model_loading", "status": "error", "error_type": "AttributeError"}
+{"timestamp": "2026-11-20T23:20:42.575567+00:00", "action": "model_loading", "status": "error", "error_type": "AttributeError"}
+{"timestamp": "2026-11-20T23:20:48.729424+00:00", "action": "model_loading", "status": "error", "error_type": "AttributeError"}
+{"timestamp": "2026-11-20T23:23:27.779154+00:00", "action": "batch_prediction", "status": "validation_error", "records": 8}
