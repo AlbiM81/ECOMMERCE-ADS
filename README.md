@@ -6,4 +6,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 3. Akses aplikasi
-Buka URL yang muncul, biasanya:
+Buka URL yang muncul
